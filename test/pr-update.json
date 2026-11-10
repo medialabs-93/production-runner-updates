@@ -1,0 +1,14 @@
+{
+  "releaseDate": "2026-11-10",
+  "notes": [
+    "TEST FEED ONLY: this is a test of the update check, not a real release."
+  ],
+  "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.0.0-test",
+  "serial": 1794337724,
+  "expires": "2027-02-08T19:08:44Z",
+  "macos": {
+    "version": "0.1.1",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.0.0-test/Production-Runner-0.1.1.dmg",
+    "sha256": "2cf8697cae02a422a0201b61c5bac0ba51bfd97a024c7ecc0ba160932015c664"
+  }
+}
