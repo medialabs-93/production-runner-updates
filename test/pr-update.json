@@ -1,14 +1,17 @@
 {
   "releaseDate": "2026-11-10",
   "notes": [
-    "TEST FEED ONLY: this is a test of the update check, not a real release."
+    "TEST FEED ONLY: this tests the update window, it is not a real release.",
+    "A faster Shots list and a fix for scenes that could land on the wrong shoot day.",
+    "Breakdowns remembers the view you left it on.",
+    "Better messages when a file cannot be imported."
   ],
   "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.0.0-test",
-  "serial": 1794337724,
-  "expires": "2027-02-08T19:08:44Z",
+  "serial": 1794340057,
+  "expires": "2027-02-08T19:47:37Z",
   "macos": {
     "version": "0.1.1",
     "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.0.0-test/Production-Runner-0.1.1.dmg",
-    "sha256": "2cf8697cae02a422a0201b61c5bac0ba51bfd97a024c7ecc0ba160932015c664"
+    "sha256": "14e2b71513ae1ff51e1d6e8d3fb5deb81f415a59b9ce6fa1a767573c761b29f6"
   }
 }
