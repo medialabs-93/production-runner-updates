@@ -6,11 +6,17 @@
     "Hand off to Call Time: Choose File > Export for Call Time to send your scenes and shoot days to the Call Time crew app, and File > Import from Call Time to bring back what the crew reported. File > Shoot Days is where you set the days up."
   ],
   "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0",
-  "serial": 1794459420,
-  "expires": "2027-02-10T04:57:00Z",
+  "serial": 1794486956,
+  "expires": "2027-02-10T12:35:56Z",
+  "version": "0.1.0",
   "macos": {
     "version": "0.1.0",
     "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0/Production-Runner-0.1.0.dmg",
     "sha256": "c8d9db69995fb5c503366f28f8462634c98a73a431ea659bb006f0ab00eb1948"
+  },
+  "windows": {
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0/Production-Runner-Setup-0.1.0.exe",
+    "sha256": "8af624e7f8d1e644956929b3e88d311dd2128c032ad48877ec2d81b41f848427"
   }
 }
