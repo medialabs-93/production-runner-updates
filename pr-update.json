@@ -1,0 +1,16 @@
+{
+  "releaseDate": "2026-11-10",
+  "notes": [
+    "Welcome to the Beta: Production Runner 0.1.0 is the first public beta: Dashboard, Screenplay, Breakdowns (with Cast ID and Reports), Shots, Contacts, Locations and Tasks, all working on your own computer.",
+    "Script to Shot List: Write or import a script, break it down into elements and cast, then plan your shots, all from the same scenes.",
+    "Hand off to Call Time: Choose File > Export for Call Time to send your scenes and shoot days to the Call Time crew app, and File > Import from Call Time to bring back what the crew reported. File > Shoot Days is where you set the days up."
+  ],
+  "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0",
+  "serial": 1794459420,
+  "expires": "2027-02-10T04:57:00Z",
+  "macos": {
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0/Production-Runner-0.1.0.dmg",
+    "sha256": "c8d9db69995fb5c503366f28f8462634c98a73a431ea659bb006f0ab00eb1948"
+  }
+}
