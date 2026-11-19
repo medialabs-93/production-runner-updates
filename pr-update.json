@@ -1,18 +1,24 @@
 {
   "releaseDate": "2026-11-19",
   "notes": [
-    "To install: Open Download Page downloads the update in your browser. Open the downloaded file, drag Production Runner onto Applications and choose Replace. Your productions are kept.",
-    "What's New in 0.1.1: Production Runner 0.1.1 updates the public beta: Home, Script (Write and Breakdown, with Cast ID and Reports), Shots, the Scheduler, Contacts, Locations and Tasks, all working on your own computer. Make the Sample Production again to see it all.",
-    "Script: Writing and tagging your script now happen in one module, Script: write or import in Write, then tag cast, props and other elements in Breakdown.",
-    "The Scheduler: Plan your shoot: drag scenes onto shooting days on the Board, see which days each actor works in Cast Days, make call sheets and write Daily Reports.",
-    "Printing on the Mac: File > Print now opens the print dialog on a Mac. In 0.1.0 it could not print."
+    "Welcome to the Beta: Production Runner 0.1.0 is the first public beta: Home, Script (Write and Breakdown, with Cast ID and Reports), Shots, the Scheduler, Contacts, Locations and Tasks, all working on your own computer.",
+    "Script: Write your script in Write, or import one. In Breakdown, tag the cast, props and other elements in each scene, number your cast in Cast ID and print breakdown reports.",
+    "Shots: Make a shot list for every scene in your script, with the size, angle, lens and description of each shot.",
+    "The Scheduler: Plan your shoot. In Plan, drag scenes onto shooting days on the Board, or read them By Day. Cast Days shows which days each actor works, and Production holds your key dates.",
+    "Call Sheets and Daily Reports: Make a call sheet for any shooting day, with its scenes, cast and crew filled in. Print it or email it to your crew. After each day you shoot, write its Daily Report.",
+    "Contacts and Locations: Keep your cast and crew in Contacts, and link each actor to the part they play. Scout places in Locations, with a map, photos and the permit's status.",
+    "Tasks: Keep your to-do list in Tasks: assign it, set what waits for what, and see it on the map.",
+    "Print and Export: File > Export > PDF in the Export Center makes the PDFs of every module in one place, each with its own paper size. File > Print prints what is on screen.",
+    "Links and Back: Click a scene, person or location named on screen to open it. Go > Back takes you back to where you were.",
+    "Night Appearance: View > Appearance has System, Light, Dark and Night. Night is all black, for working on a dark stage."
   ],
-  "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.1",
-  "serial": 1795104693,
-  "expires": "2027-02-17T16:11:33Z",
+  "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0",
+  "serial": 1795105216,
+  "expires": "2027-02-17T16:20:16Z",
+  "version": "0.1.0",
   "macos": {
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.1/Production-Runner-0.1.1.dmg"
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0/Production-Runner-0.1.0.dmg"
   },
   "windows": {
     "version": "0.1.0",
