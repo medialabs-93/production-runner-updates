@@ -13,8 +13,8 @@
     "Night Appearance: View > Appearance has System, Light, Dark and Night. Night is all black, for working on a dark stage."
   ],
   "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0",
-  "serial": 1795092963,
-  "expires": "2027-02-17T12:56:03Z",
+  "serial": 1795096271,
+  "expires": "2027-02-17T13:51:11Z",
   "version": "0.1.0",
   "macos": {
     "version": "0.1.0",
@@ -24,6 +24,6 @@
   "windows": {
     "version": "0.1.0",
     "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0/Production-Runner-Setup-0.1.0.exe",
-    "sha256": "8af624e7f8d1e644956929b3e88d311dd2128c032ad48877ec2d81b41f848427"
+    "sha256": "cb81eb6f1368006cf8ea8ec54b6c9e86d47fde6d2d4db6b4e4ddb44b1fd0c2cf"
   }
 }
