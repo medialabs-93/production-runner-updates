@@ -15,8 +15,9 @@
     "Scheduler fixes: Move to Day, Cut, Copy, Paste and Remove from Film now work on strips under Unscheduled. A quick click with Command (Ctrl on Windows) or Shift held adds to the selection instead of being missed."
   ],
   "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.2",
-  "serial": 1795232766,
-  "expires": "2027-02-19T03:46:06Z",
+  "serial": 1795242954,
+  "expires": "2027-02-19T06:35:54Z",
+  "version": "0.1.2",
   "macos": {
     "version": "0.1.2",
     "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.2/Production-Runner-0.1.2.dmg",
@@ -37,8 +38,8 @@
     ]
   },
   "windows": {
-    "version": "0.1.0",
-    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.0/Production-Runner-Setup-0.1.0.exe",
-    "sha256": "cb81eb6f1368006cf8ea8ec54b6c9e86d47fde6d2d4db6b4e4ddb44b1fd0c2cf"
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.2/Production-Runner-Setup-0.1.2.exe",
+    "sha256": "d58c0828420b3f0eb0a82f9883fa7e953ca45e63c3928ddf83db25f95cf9db76"
   }
 }
