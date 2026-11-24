@@ -8,8 +8,9 @@
     "Report a Problem: Send: With crash and error reports on, Help \u25b8 Report a Problem or Send Feedback has a Send button: your note goes straight to us with the app version and your system, linked to your account ID, never the production's name. Email still works too. Settings \u25b8 About shows your Support ID to quote if you write to us."
   ],
   "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.3",
-  "serial": 1795487446,
-  "expires": "2027-02-22T02:30:46Z",
+  "serial": 1795487901,
+  "expires": "2027-02-22T02:38:21Z",
+  "version": "0.1.3",
   "macos": {
     "version": "0.1.3",
     "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.3/Production-Runner-0.1.3.dmg",
@@ -23,8 +24,8 @@
     ]
   },
   "windows": {
-    "version": "0.1.2",
-    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.2/Production-Runner-Setup-0.1.2.exe",
-    "sha256": "d58c0828420b3f0eb0a82f9883fa7e953ca45e63c3928ddf83db25f95cf9db76"
+    "version": "0.1.3",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.3/Production-Runner-Setup-0.1.3.exe",
+    "sha256": "19c587c027fa83d7920cf59cd05de4ac4e72a3cb38adaf18700a8fe033d85c20"
   }
 }
