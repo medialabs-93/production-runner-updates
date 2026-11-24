@@ -1,40 +1,25 @@
 {
-  "releaseDate": "2026-11-20",
+  "releaseDate": "2026-11-22",
   "notes": [
-    "What's New in 0.1.2: Production Runner 0.1.2 makes the public beta simpler: Home, Script (Write and Breakdown, with Cast ID and Reports), Shots, the Scheduler, Contacts, Locations and Tasks each do their job in fewer places.",
-    "Find Elements: In Script's Breakdown, More \u25b8 Find Elements\u2026 replaces Auto-Tag. It lists the words in your script that match elements you already tagged, scene by scene. Untick any you don't want, then press Tag.",
-    "A shorter Breakdown menu: Breakdown's More menu has fewer items. Find Duplicates is in Cast ID's More menu.",
-    "Tasks: one list: Tasks is one list now. A done task shows the day it was done, and Filter \u25b8 Status \u25b8 Done lists your finished tasks, newest first.",
-    "Locations: Scouting and clearances: Scouting's questions about the name, address, site contact, permission, power, safety and nearest hospital now show the same answers as Info, so you type them once. The count of clearances pending only counts approved locations.",
-    "Shoot days in your calendar: The Scheduler's Export menu can save your dated shooting days as a calendar file (.ics) for Apple, Google or Outlook Calendar.",
-    "Scheduler: change and drag strips: Change a banner, call time, lunch, off day or day break after adding it: double-click it, or right-click it and choose the first item. Double-click a day's END OF DAY line, or right-click it and choose Day Notes\u2026, to change that day's notes. Select several strips and drag any one of them to move them all together. A new call time opens its day, under the DAY band.",
-    "Off days between days: An off day now shows between the END OF DAY line of the day it follows and the next day, with the date it takes.",
-    "Sharper text on Windows: On Windows, Production Runner's text uses Segoe UI, so it is sharp at 100% display scaling.",
-    "A simpler Home and Account: Home's tiles no longer show a red outline (it only marked changes made by other people). Settings \u25b8 Account no longer has a profile photo; it comes back when productions can be shared.",
-    "Fixes: Set Availability\u2026 and photo captions can be undone. A person with days off reads \"Currently available\" on the days they are free. Clearing a shot's cast keeps it clear in the Full Shot List and the CSV. Pressing Return in Day notes, a task's title or Assigned to, or a scene field in Script's Breakdown saves once, so one Undo takes it back. Task Details \u25b8 Change History shows your edits. Duplicate Production, backups and restores keep each task's history and every trip, with its dates, budget and cover, even an empty one. The Tasks list header says the order it shows.",
-    "Scheduler fixes: Move to Day, Cut, Copy, Paste and Remove from Film now work on strips under Unscheduled. A quick click with Command (Ctrl on Windows) or Shift held adds to the selection instead of being missed."
+    "What's New in 0.1.3: Production Runner 0.1.3 gives Shots a cleaner, easier-to-read look and adds optional crash reports, so we can find and fix problems faster. Home, Script (with Cast ID), Shots, the Scheduler, Contacts, Locations and Tasks work as before.",
+    "Shots: a cleaner shot list: Every shot is now a calm strip of the same height. The shot number and what happens come first, with who's in it underneath; framing, time and status sit in their own columns. The scene colour is a thin edge instead of a full fill, so the colour key is gone. By scene and By shoot day both use the new look, and each shoot day shows its call time and how long lighting and rolling take.",
+    "Shots: a clearer shot panel: The panel on the right shows the frame with its size, angle, movement and lens in plain words, What happens in its own box, the framing as a two-column grid with the setup's shared lighting time, the status track, priority (Must have, Should or If time), Sync or MOS, and who's in it.",
+    "Crash and error reports: When the app crashes or something goes wrong, it can send us a report so we can fix it. The first time you open 0.1.3 it asks you once, and nothing is sent before you answer. Reports are about the app, never your work: no scripts, productions, contacts, photos, files, email address or name. Change your answer any time in Settings \u25b8 Privacy.",
+    "Report a Problem: Send: With crash and error reports on, Help \u25b8 Report a Problem or Send Feedback has a Send button: your note goes straight to us with the app version and your system, linked to your account ID, never the production's name. Email still works too. Settings \u25b8 About shows your Support ID to quote if you write to us."
   ],
-  "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.2",
-  "serial": 1795242954,
-  "expires": "2027-02-19T06:35:54Z",
-  "version": "0.1.2",
+  "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.3",
+  "serial": 1795487446,
+  "expires": "2027-02-22T02:30:46Z",
   "macos": {
-    "version": "0.1.2",
-    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.2/Production-Runner-0.1.2.dmg",
+    "version": "0.1.3",
+    "downloadUrl": "https://github.com/medialabs-93/production-runner-updates/releases/download/v0.1.3/Production-Runner-0.1.3.dmg",
     "notes": [
       "To install: Open Download Page downloads the update in your browser. Open the downloaded file, drag Production Runner onto Applications and choose Replace. Your productions are kept. From this version on, updates install inside the app.",
-      "What's New in 0.1.2: Production Runner 0.1.2 makes the public beta simpler: Home, Script (Write and Breakdown, with Cast ID and Reports), Shots, the Scheduler, Contacts, Locations and Tasks each do their job in fewer places.",
-      "Find Elements: In Script's Breakdown, More \u25b8 Find Elements\u2026 replaces Auto-Tag. It lists the words in your script that match elements you already tagged, scene by scene. Untick any you don't want, then press Tag.",
-      "A shorter Breakdown menu: Breakdown's More menu has fewer items. Find Duplicates is in Cast ID's More menu.",
-      "Tasks: one list: Tasks is one list now. A done task shows the day it was done, and Filter \u25b8 Status \u25b8 Done lists your finished tasks, newest first.",
-      "Locations: Scouting and clearances: Scouting's questions about the name, address, site contact, permission, power, safety and nearest hospital now show the same answers as Info, so you type them once. The count of clearances pending only counts approved locations.",
-      "Shoot days in your calendar: The Scheduler's Export menu can save your dated shooting days as a calendar file (.ics) for Apple, Google or Outlook Calendar.",
-      "Scheduler: change and drag strips: Change a banner, call time, lunch, off day or day break after adding it: double-click it, or right-click it and choose the first item. Double-click a day's END OF DAY line, or right-click it and choose Day Notes\u2026, to change that day's notes. Select several strips and drag any one of them to move them all together. A new call time opens its day, under the DAY band.",
-      "Off days between days: An off day now shows between the END OF DAY line of the day it follows and the next day, with the date it takes.",
-      "Sharper text on Windows: On Windows, Production Runner's text uses Segoe UI, so it is sharp at 100% display scaling.",
-      "A simpler Home and Account: Home's tiles no longer show a red outline (it only marked changes made by other people). Settings \u25b8 Account no longer has a profile photo; it comes back when productions can be shared.",
-      "Fixes: Set Availability\u2026 and photo captions can be undone. A person with days off reads \"Currently available\" on the days they are free. Clearing a shot's cast keeps it clear in the Full Shot List and the CSV. Pressing Return in Day notes, a task's title or Assigned to, or a scene field in Script's Breakdown saves once, so one Undo takes it back. Task Details \u25b8 Change History shows your edits. Duplicate Production, backups and restores keep each task's history and every trip, with its dates, budget and cover, even an empty one. The Tasks list header says the order it shows.",
-      "Scheduler fixes: Move to Day, Cut, Copy, Paste and Remove from Film now work on strips under Unscheduled. A quick click with Command (Ctrl on Windows) or Shift held adds to the selection instead of being missed."
+      "What's New in 0.1.3: Production Runner 0.1.3 gives Shots a cleaner, easier-to-read look and adds optional crash reports, so we can find and fix problems faster. Home, Script (with Cast ID), Shots, the Scheduler, Contacts, Locations and Tasks work as before.",
+      "Shots: a cleaner shot list: Every shot is now a calm strip of the same height. The shot number and what happens come first, with who's in it underneath; framing, time and status sit in their own columns. The scene colour is a thin edge instead of a full fill, so the colour key is gone. By scene and By shoot day both use the new look, and each shoot day shows its call time and how long lighting and rolling take.",
+      "Shots: a clearer shot panel: The panel on the right shows the frame with its size, angle, movement and lens in plain words, What happens in its own box, the framing as a two-column grid with the setup's shared lighting time, the status track, priority (Must have, Should or If time), Sync or MOS, and who's in it.",
+      "Crash and error reports: When the app crashes or something goes wrong, it can send us a report so we can fix it. The first time you open 0.1.3 it asks you once, and nothing is sent before you answer. Reports are about the app, never your work: no scripts, productions, contacts, photos, files, email address or name. Change your answer any time in Settings \u25b8 Privacy.",
+      "Report a Problem: Send: With crash and error reports on, Help \u25b8 Report a Problem or Send Feedback has a Send button: your note goes straight to us with the app version and your system, linked to your account ID, never the production's name. Email still works too. Settings \u25b8 About shows your Support ID to quote if you write to us."
     ]
   },
   "windows": {
